@@ -117,7 +117,7 @@ export function Withdraw() {
         )}
       >
         <h2 className="mx-auto max-w-4xl font-display text-4xl font-medium tracking-tight text-slate-900 ">
-          Withdraw Vested Tokens
+          Claim Vested Tokens
         </h2>
         <p>
           {contractAddresses?.length > 0
@@ -163,10 +163,10 @@ export function Withdraw() {
           onClick={verifyByHash}
           className="bg-[#1D4ED8] text-white px-4 py-2 rounded-lg"
         >
-          Withdraw Tokens
+          Claim Tokens
         </button>
 
-        <p>{Successfully ? `WITHDRAWAL SUCCESFUL` : ""}</p>
+        <p>{Successfully ? `CLAIM SUCCESFUL` : ""}</p>
       </form>
     </Container>
   );

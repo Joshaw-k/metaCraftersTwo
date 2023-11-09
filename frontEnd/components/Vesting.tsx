@@ -77,7 +77,7 @@ export function Vesting() {
         onSubmit={handleVestToken}
       >
         <h2 className="mx-auto max-w-4xl font-display text-4xl font-medium tracking-tight text-slate-900 ">
-          Add User
+          Add Stakeholder
         </h2>
 
         <div className="space-y-4">
@@ -139,7 +139,7 @@ export function Vesting() {
             type="submit"
             className="bg-[#1D4ED8] text-white px-4 py-2 rounded-lg"
           >
-            Add User
+            Add Stakeholder
           </button>
         </div>
         <p className="green">{Successfully ? `VESTING SUCCESFUL` : ""}</p>

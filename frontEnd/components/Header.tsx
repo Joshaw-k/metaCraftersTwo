@@ -113,7 +113,7 @@ function MobileNavigation(props: HTMLAttributes<HTMLElement>) {
                 <MobileNavItem href="/">Home</MobileNavItem>
                 <MobileNavItem href="/create">Create</MobileNavItem>
                 <MobileNavItem href="/vesting">Vest</MobileNavItem>
-                <MobileNavItem href="/withdraw">Withdraw</MobileNavItem>
+                <MobileNavItem href="/withdraw">Claim</MobileNavItem>
               </ul>
             </nav>
           </Popover.Panel>
@@ -155,7 +155,7 @@ function DesktopNavigation(
         <NavItem href="/">Home</NavItem>
         <NavItem href="/create">Create</NavItem>
         <NavItem href="/vesting">Vest</NavItem>
-        <NavItem href="/withdraw">Withdraw</NavItem>
+        <NavItem href="/withdraw">Claim</NavItem>
       </ul>
     </nav>
   );

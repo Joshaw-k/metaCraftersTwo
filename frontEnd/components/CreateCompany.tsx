@@ -83,7 +83,7 @@ export function CreateCompany() {
         onSubmit={handleCreate}
       >
         <h2 className="mx-auto max-w-4xl font-display text-4xl font-medium tracking-tight text-slate-900 ">
-          Create Your Company
+          Create Your Organization
         </h2>
 
         <div className="space-y-4">
@@ -145,7 +145,7 @@ export function CreateCompany() {
           type="submit"
           className="bg-[#1D4ED8] text-white px-4 py-2 rounded-lg"
         >
-          Create Company
+          Create Organization
         </button>
       </form>
     </Container>
