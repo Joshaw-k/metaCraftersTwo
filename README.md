@@ -17,9 +17,7 @@ The contract implements the following features:
 
 ## Live Url:
 
-https://360-vest-wise.vercel.app/
-
-https://vesting-token-front-end.vercel.app/
+https://meta-crafters-j15gpxo5d-joshaw-k.vercel.app/
 
 ### Contract Addresses
 
@@ -30,7 +28,7 @@ OrganizationFactory Contract:
 https://sepolia.etherscan.io/address/0x38EFA73237AB15E583e5ea7a1708511Da8BaE0E7
 
 Organization Contract:
-https://sepolia.etherscan.io/address/0x93136f5b0c6948716d6a4d8decd0bc1f8db585b9
+https://sepolia.etherscan.io/address/0x5d7005b3A59c991454aA4889c6E6780283e17eC2
 
 ## Authors
 
