@@ -67,7 +67,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           chains={chains}
           coolMode
           theme={lightTheme({
-            accentColor: "#7F56D9", //color of wallet  try #703844
+            accentColor: "#56d96c", //color of wallet  try #703844
             accentColorForeground: "white", //color of text
             borderRadius: "large", //rounded edges
             fontStack: "system",

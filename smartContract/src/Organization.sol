@@ -37,6 +37,7 @@ contract Organization {
         tokenContract = _tokenContract;
         totalSupply = initialSupply;
         factory = _factory;
+        owner = _admin;
     }
 
     modifier onlyOwner() {
