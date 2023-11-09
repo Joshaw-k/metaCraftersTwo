@@ -284,7 +284,7 @@ export function Header() {
             }
           >
             <div className="relative flex gap-4 mt-6">
-              <h1 className="font-bold text-2xl">360VestWise</h1>
+              <h1 className="font-bold text-2xl text-[#1D4ED8]">BetaVest</h1>
               <div className="flex flex-1"></div>
               <div className="flex flex-1 justify-end md:justify-center">
                 <MobileNavigation className="pointer-events-auto md:hidden" />

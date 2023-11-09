@@ -61,15 +61,15 @@ const wagmiConfig = createConfig({
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <div className="bg-violet-200 ">
+    <div className="">
       <WagmiConfig config={wagmiConfig}>
         <RainbowKitProvider
           chains={chains}
           coolMode
           theme={lightTheme({
-            accentColor: "#56d96c", //color of wallet  try #703844
-            accentColorForeground: "white", //color of text
-            borderRadius: "large", //rounded edges
+            accentColor: "#1D4ED8",
+            accentColorForeground: "white",
+            borderRadius: "large",
             fontStack: "system",
           })}
         >

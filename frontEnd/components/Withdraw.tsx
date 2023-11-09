@@ -161,7 +161,7 @@ export function Withdraw() {
           type="button"
           disabled={contractAddresses?.length > 0 ? false : true}
           onClick={verifyByHash}
-          className="bg-[#7F56D9] text-white px-4 py-2 rounded-lg"
+          className="bg-[#1D4ED8] text-white px-4 py-2 rounded-lg"
         >
           Withdraw Tokens
         </button>

@@ -64,7 +64,7 @@ export function CreateCompany() {
     try {
       console.log("creating company.....");
       createCompanyWrite?.();
-    } catch (error:any) {
+    } catch (error: any) {
       //@ts-ignore
       console.error(
         "Error calling createCompanyWrite:",
@@ -143,7 +143,7 @@ export function CreateCompany() {
 
         <button
           type="submit"
-          className="bg-[#7F56D9] text-white px-4 py-2 rounded-lg"
+          className="bg-[#1D4ED8] text-white px-4 py-2 rounded-lg"
         >
           Create Company
         </button>

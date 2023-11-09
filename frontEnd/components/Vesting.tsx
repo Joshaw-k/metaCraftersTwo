@@ -137,7 +137,7 @@ export function Vesting() {
         <div className="flex flex-col gap-3">
           <button
             type="submit"
-            className="bg-[#7F56D9] text-white px-4 py-2 rounded-lg"
+            className="bg-[#1D4ED8] text-white px-4 py-2 rounded-lg"
           >
             Add User
           </button>
